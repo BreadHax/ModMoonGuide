@@ -1,9 +1,14 @@
 
 ## What You Need
-ModMoon (the .cia) [click here for the download](https://github.com/Swiftloke/ModMoon/releases)
-A 3DS with Luma3DS and access to FBI
-Access to the SD card (obviously)
-If you do not have Luma3DS it's advised to follow [this guide](https://3ds.hacks.guide)
+
+<ul>
+  <li>ModMoon (the .cia)<a href="https://github.com/Swiftloke/ModMoon/releases"> Download Here!</a></li>
+  <li>A 3DS that has CFW (or Luma3DS) with access to FBI</li>
+  <li>Access to the (micro)SD Card</li>
+ </ul>
+    
+
+<b>NOTE: If you do not have Luma3DS it's advised to follow [this guide](https://3ds.hacks.guide)</b>
 
 ## Section I - Prepwork
 1. Power off your device
@@ -38,5 +43,5 @@ If you do not have Luma3DS it's advised to follow [this guide](https://3ds.hacks
 
 (In the future if you want to add more mods just make a new Slot_X folder)
 
-For any questions ask Bread#4199 on Discord
+For any questions, ask Bread#4199 on Discord
 
