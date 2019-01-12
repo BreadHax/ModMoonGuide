@@ -1,5 +1,5 @@
 
-# What You Need
+## What You Need
 ModMoon (the .cia) [click here for the download](https://github.com/Swiftloke/ModMoon/releases)
 A 3DS with Luma3DS and access to FBI
 Access to the SD card (obviously)
@@ -11,14 +11,14 @@ If you do not have Luma3DS it's advised to follow [this guide](https://3ds.hacks
 3. Select "Enable game patching" if not selected
 4. Press Start to save
 
-### Section II - Installing ModMoon
+## Section II - Installing ModMoon
 1. Launch FBI on your device
 2. Go to SD
 3. Navigate to wherever you placed the .cia
 4. Install and delete the .cia
 5. Go back to the FBI Main Menu and press Start
 
-#### Section III - ModMoon Tutorial and Setup
+## Section III - ModMoon Tutorial and Setup
 1. Launch ModMoon
 2. Go through the whole tutorial, selecting the title(s) you want to mod
 3. When done with the tutorial power off your device
